@@ -96,7 +96,7 @@ Confusion Matrix:
 classification_report:
 
 |                 | precision | recall | f1-score | support |
-| :---            |    :----: |   ---: |      ---:|   ---:  |
+| :---            |     ----: |   ---: |      ---:|   ---:  |
 | Iris-setosa     | 1.00      | 1.00   | 1.00     | 11      |
 | Iris-versicolor | 1.00      | 0.92   | 0.96     | 13      |
 | Iris-virginica  | 0.86      | 1.00   | 0.92     | 6       |
